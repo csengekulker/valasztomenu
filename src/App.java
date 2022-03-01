@@ -21,13 +21,13 @@ public class App {
 
             switch (choice) {
                 case "1":
-                    System.out.println("egyes");
+                    System.out.println("Program...");
                     break;
                 case "2":
-                    System.out.println("kettes");
+                    System.out.println("Nevjegy...");
                     break;
                 case "3":
-                    System.out.println("harmas");
+                    System.out.println("Kilepes");
                     break;
             }
 
