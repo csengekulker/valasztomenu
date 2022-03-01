@@ -12,13 +12,9 @@ public class App {
 
         do {
             System.out.println("---------------------");
-            System.out.println();
-            System.out.println("(1) Program inditasa");
-            System.out.println();
-            System.out.println("(2) Nevjegy");
-            System.out.println();
-            System.out.println("(3) Kilepes");
-            System.out.println();
+            System.out.println("(1) Program inditasa\n");
+            System.out.println("(2) Nevjegy\n");
+            System.out.println("(3) Kilepes\n");
     
             System.out.print("Valasztas > ");
             choice = sc.nextLine();
