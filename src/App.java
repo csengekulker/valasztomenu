@@ -16,6 +16,22 @@ public class App {
         System.out.print("Valasztas > ");
         String choice = sc.nextLine();
 
+        // switchcase
+
+        switch (choice) {
+            case "1":
+                System.out.println("egyes");
+                break;
+            case "2":
+                System.out.println("kettes");
+                break;
+            case "3":
+                System.out.println("harmas");
+                break;
+            default:
+                break;
+        }
+
         // modositok
 
         sc.close();
