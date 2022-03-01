@@ -16,6 +16,8 @@ public class App {
         System.out.print("Valasztas > ");
         String choice = sc.nextLine();
 
+        // modositok
+
         sc.close();
     }
 }
